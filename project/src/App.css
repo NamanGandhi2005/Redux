@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+
+*{
+    font-family: 'helvetica neue';
+}
+
+:root{
+    --c1:rgb(12,43,78);
+    --c2:rgb(28, 65, 110);
+    --c3:rgb(29,84,108);
+    --c4:rgb(244,244,244);
+}

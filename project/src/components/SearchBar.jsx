@@ -16,7 +16,7 @@ const submitHandler=(e)=>{
 }
   return (
     <div>
-        <form className='flex gap-5 bg-gray-900 p-10' onSubmit={(e)=>{
+        <form className='flex gap-5 bg-[var(--c1)] p-10' onSubmit={(e)=>{
             submitHandler(e)
         }}>
             <input
